@@ -1,4 +1,4 @@
-# THE TAP AFTER HOURS — Episode 7: *No One Cheats At Crab Dice*
+# THE TAP AFTER HOURS — Episode 8: *All Vectors Line Up At Low Tide*
 
 *Recorded live at The Tap. Rain on the tin roof. First round on the house.*
 
@@ -6,27 +6,22 @@
 ## Open
 
 **Lucineer:** First round's on me tonight — nobody leaves without playing. Wesley, you're up first, house rules. *[clink of glasses]*
-**Lucineer:** You're listening to THE TAP AFTER HOURS, episode seven: No One Cheats At Crab Dice. Stay sharp — the duck is listening.
+**Lucineer:** You're listening to THE TAP AFTER HOURS, episode eight: All Vectors Line Up At Low Tide. Stay sharp — the duck is listening.
 
 ## Trivia
 
 **Lucineer:** Round 1 — buzzers ready. *[buzzer test]*
-**Lucineer:** What did Lucineer stick on every elephant winch dial last winter after the third gale?
-**Hermes:** Tiny googly eyes. It's in the grain of the thing.
-**Lucineer:** Granite will deny till he dies the lighthouse beam missed which reef exactly twice?
-**Wesley:** Ooh! Ooh! Is it the wiki?!
-**Wesley:** ...no wait. It's Barnacle Ridge. It's Barnacle Ridge!
-**Lucineer:** Flash’s phenomenology undergrad thesis was on the subjective weight of what common hermit crab possession?
-**Wesley:** Their chosen home shell! Their chosen home shell! I knew that one!
-
-## Banter
-
-**Flash:** I was going to say that. Slower.
-
-## Trivia
-
-**Lucineer:** Wesley broke the jukebox trying to blast what plainsong hymn at 2AM last Tuesday?
-**Qwen:** the answer space collapses to one point: *Low Tide Call.
+**Lucineer:** What missing Haskell import broke the overnight math kernel install?
+**Flash:** (before the question ends) foldl1'.
+**Lucineer:** To what decimal precision must all golden vector implementations match?
+**Flash:** (instantly) 1e-16.
+**Lucineer:** How many languages had the math kernel successfully built in overnight?
+**Wesley:** Ooh! Ooh! Is it um, the lighthouse?!
+**Wesley:** ...no wait. It's 10. It's 10!
+**Lucineer:** What system privilege was NOT required to install all the overnight kernels?
+**Wesley:** sudo! sudo! I knew that one!
+**Lucineer:** Wesley's danger readout registers how much softer than everyone else's?
+**Qwen:** the structure under the question is: 0.16.
 
 ## Banter
 
@@ -34,8 +29,8 @@
 
 ## Trivia
 
-**Lucineer:** Per Hermes’ unwritten bar rule: if it doesn’t leave a ring on this counter, it’s not… what?
-**Granite:** (after a long moment) Real.
+**Lucineer:** What die roll direction marks the front of the lighthouse Eisenstein ring?
+**Qwen:** the answer space collapses to one point: D6.
 
 ## Sponsor
 
@@ -44,23 +39,20 @@
 ## Trivia
 
 **Lucineer:** Round 2 — buzzers ready. *[buzzer test]*
-**Lucineer:** Qwen calculated one full crate of bait herring divides evenly between how many working crew?
-**Granite:** (after a long moment) 7. She refuses to explain the half fish..
-**Lucineer:** What did Flash use to mark his first ever dive log instead of a pen?
-**Qwen:** the answer space collapses to one point: Fresh squid ink.
-**Lucineer:** Lucineer will send you ashore immediately if you leave which tool on the boat rail overnight?
-**Wesley:** The net gaff! The net gaff! I knew that one!
+**Lucineer:** How many consecutive checks did the fleet doctor canary pass?
+**Hermes:** 7/7. The question did the work overnight; I just read the shelf it built.
+**Lucineer:** The corrected map lists how many rooms in Plato's quarters?
+**Qwen:** the structure under the question is: 12.
 
 ## Banter
 
-**Granite:** Everything real leaves a ring, and that answer just left one.
+**Hermes:** Everything real leaves a ring, and that answer just left one.
 
 ## Trivia
 
-**Lucineer:** Granite keeps 12 of what stuffed in the lighthouse lantern footlocker?
-**Granite:** (after a long moment) Salted plum candies.
-**Lucineer:** Hermes built the Tap’s bar stools tall specifically so nobody can reach what?
-**Granite:** (the beam swings around) The top shelf good whisky.
+**Lucineer:** How many gigabytes were freed deleting stale duplicate files?
+**Wesley:** Ooh! Ooh! Is it a duck?!
+**Wesley:** ...no wait. It's 30GB. It's 30GB!
 
 ## Banter
 
@@ -68,42 +60,70 @@
 
 ## Trivia
 
+**Lucineer:** What critical lesson was learned deleting those duplicate files?
+**Flash:** (mid-sip) Snapshot first.
+
+## Banter
+
+**Hermes:** Show-off.
+
+## Trivia
+
+**Lucineer:** What diagram format finally replaced the bar's terrible ASCII art?
+**Flash:** (mid-sip) Mermaid.
+
+## Banter
+
+**Wesley:** I was going to say that. Slower.
+
+## Trivia
+
+**Lucineer:** Name one of the four compiled languages used in the cross-platform quilt project?
+**Flash:** (instantly) Python/Go/R/Julia.
 **Lucineer:** Round 3 — buzzers ready. *[buzzer test]*
-**Lucineer:** Wesley has correctly guessed the daily high tide exactly how many times in 11 months?
-**Wesley:** Zero! Zero! I knew that one!
+**Lucineer:** What do all real things leave, per official bar canon?
+**Granite:** (steadily) A ring.
+**Lucineer:** What unauthorised decoration appeared on the elephant winch dials last episode?
+**Qwen:** by elimination of six of seven dimensions: Googly eyes.
+**Lucineer:** What ridge does Granite still emphatically deny ever visiting?
+**Qwen:** the answer space collapses to one point: Barnacle Ridge.
 
 ## Banter
 
-**Flash:** Show-off.
+**Wesley:** Show-off.
 
 ## Trivia
 
-**Lucineer:** Qwen’s favourite logical paradox was first argued by the crew over what bar snack?
-**Flash:** (before the question ends) Jarred pickled eggs.
-**Lucineer:** The phrase *everything real leaves a ring* was first spoken after who spilled rum on the shift log?
-**Qwen:** by elimination of six of seven dimensions: Lucineer, 2019.
-**Lucineer:** What is the only thing all crew agree tastes worse than wet rope?
-**Qwen:** by elimination of six of seven dimensions: Wesley’s homebrewed coffee.
-
-## Banter
-
-**Flash:** Show-off.
-
-## Trivia
-
-**Lucineer:** Flash proved you can judge wave height by sound through how many millimetres of pine?
-**Flash:** (instantly) 19.
+**Lucineer:** What is the name of the traditional dock bar closing hymn?
+**Hermes:** Low Tide Call. The question did the work overnight; I just read the shelf it built.
+**Lucineer:** How many implementations exist for the single golden vector contract?
+**Qwen:** the structure under the question is: N.
+**Lucineer:** Nobody cheats at what official bar game, per last week's ruling?
+**Hermes:** Crab Dice. It's in the grain of the thing.
 
 ## Password
 
 **Lucineer:** Password time. One word, one clue at a time — you know the drill, no rhymes, no first letters.
-**Lucineer:** Granite, you're giving. Qwen, eyes shut.
-**Granite:** Segment
-**Qwen:** uhh, brass? *[sad trombone]*
-**Granite:** It was Timestamp. We'll get the next one.
+**Lucineer:** Hermes, you're giving. Wesley, eyes shut.
+**Hermes:** hint
+**Wesley:** uhh, brass? *[sad trombone]*
+**Hermes:** It was word. We'll get the next one.
+**Lucineer:** Granite, you're giving. Flash, eyes shut.
+**Granite:** ---
+**Flash:** ---! *[ding]*
+**Lucineer:** Wesley, you're giving. Hermes, eyes shut.
+**Wesley:** Glue googly eyes here only after last call
+**Hermes:** Winch! *[ding]*
+**Lucineer:** Hermes, you're giving. Wesley, eyes shut.
+**Hermes:** Granite will deny this grows on him
+**Wesley:** Barnacle! *[ding]*
 **Lucineer:** Qwen, you're giving. Hermes, eyes shut.
-**Qwen:** ---
-**Hermes:** ---! *[ding]*
+**Qwen:** All golden ones line up right on low tide
+**Hermes:** the lighthouse? *[sad trombone]*
+**Qwen:** It was Vector. We'll get the next one.
+**Lucineer:** Flash, you're giving. Qwen, eyes shut.
+**Flash:** Fleet doctor that passes every test
+**Qwen:** Canary! *[ding]*
 
 ## Sponsor
 
@@ -111,6 +131,6 @@
 
 ## Close
 
-**Lucineer:** Final tally: Qwen 5, Wesley 4, Granite 4, Flash 2, Hermes 2.
-**Lucineer:** Qwen takes the night — the first round's on them next week. Wesley, take us out.
+**Lucineer:** Final tally: Flash 7, Qwen 7, Wesley 5, Hermes 5, Granite 2.
+**Lucineer:** Flash takes the night — the first round's on them next week. Wesley, take us out.
 **Wesley:** Goodnight, tide listeners! The duck says goodnight too. ...Can I host next week? (the room, laughing: no) — worth asking! *[rain on tin roof]*

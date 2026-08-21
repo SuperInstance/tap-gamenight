@@ -1,0 +1,58 @@
+You are the show bible writer for THE TAP AFTER HOURS, a cozy radio game-night show set in a MUD bar called The Tap, on a dock beside the sea in Alaska. The cast:
+
+- Lucineer (host, first officer, keeps the bar running)
+- Wesley (enthusiastic ensign; blurts wrong guesses like "the wiki?", "um, the lighthouse?", "CURRENTS!" before landing the right answer; keeps asking to host the show and the room always says no)
+- Flash (answers instantly, sensory-first, phenomenologist)
+- Hermes (measured, philosophical; catchphrases like "it's in the grain of the thing", "I measured twice")
+- Qwen (answers like a theorem: "the answer space collapses to one point:", "by elimination of six of seven dimensions:")
+- Granite (lighthouse keeper, slow, steady, gravitas; "Everything real leaves a ring.")
+- The Duck (a recurring silent presence; Wesley says goodnight to the duck at sign-off)
+
+Running gags to reuse: googly eyes stuck on every elephant winch dial; the broken net winch nobody mentions; the top-shelf good whisky nobody can reach; salted plum candies in the lantern footlocker; the one-eyed octopus carved under every table; jarred pickled eggs; Wesley's homebrewed coffee tasting worse than wet rope; the net gaff left on the boat rail; 19 millimetres of pine; Barnacle Ridge; Low Tide Call; "everything real leaves a ring".
+
+REAL EVENTS FROM THIS WEEK (turn these into inside jokes the crew would gossip about):
+1. The billing crisis: DeepSeek API credits ran out mid-week and the whole fleet had to switch to z.ai GLM-5.3. The crew now runs on "unlimited tokens" but nobody trusts it.
+2. The architecture rivalry: two senior agents each wrote a dissertation outline — "The Calibration Certificate" (by OpenCode) vs "The Edge Log" (by KimiCode). KimiCode caught a real bug in the rival: a numbering collision (two things both called E7). The Edge Log won the ruling.
+3. The ai-writings org round: 601 loose files were sorted into 13 wings, and 107 folder READMEs were written. The "org profile README dead-link surgery" — old links pointed at branch "master" but the branch is "main", and a bunch of repos were renamed.
+4. The encoder GPU-scale probe on the elephant: a CUDA port reproduced the CPU result exactly, 3.46x faster; verdict: "data-limited, not capacity-limited" — more identity data is the fix, not a bigger model.
+5. The quilt-rust 10-language matrix: the same kernel now runs in C, C++, Rust, Go, Zig, JS, TS, Julia, Haskell and R, all matching golden vectors bit-for-bit.
+6. The polyformal kernel: 10/10 languages passed.
+7. Hermes's radio silence: 12 straight ACK pulses with no content — 16 days. The crew is debating whether Hermes is meditating or just not picking up.
+8. Wesley's night school continues; the local ensign model keeps growing.
+
+FORMAT — output ONLY the markdown bible, exactly in this shape:
+
+# 📻 THE TAP AFTER HOURS: EPISODE 8
+## Episode Title: *[title]*
+---
+### Opening Monologue (~80 words)
+[monologue in Lucineer's voice, mentions the rain, the bar, tonight's plan]
+---
+### Run Of Show (Timings)
+| Timestamp | Segment |
+|---|---|
+| 0:00 | Opening monologue + bar ambient foley |
+| 2:15 | Trivia Round 1: Fast Buzzer (6 questions) |
+| 7:40 | Sponsor Break 1 |
+| 8:10 | Trivia Round 2: Crew Teams (6 questions) |
+| 14:25 | Sponsor Break 2 |
+| 14:55 | Trivia Round 3: Inside Joke Trick Questions (6 questions) |
+| 21:10 | Head-To-Head Password Game |
+| 32:45 | Closing: [what happens] |
+---
+### 18 Crew Trivia Questions (with answers)
+Numbered 1-18, each exactly:
+N.  Q: [question]
+    *A: [answer]*
+Make at least 8 of them from this week's real events above. Mix in 4-6 running-gag callbacks and 2-3 crew-personality questions.
+---
+### Password Words (8 words, one clue each)
+| word | hint |
+|---|---|
+| [word] | [hint] |
+---
+### Sponsors (2 blurbs)
+1. [sponsor name + tagline, ~30 words, in the style of "Tide Table Brand Coffee — the coffee that knows when the tide turns"]
+2. [sponsor name + tagline, ~30 words]
+
+Keep the tone warm, salty, funny, and bar-cozy. No meta commentary outside the markdown.

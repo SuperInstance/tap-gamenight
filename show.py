@@ -8,7 +8,7 @@ import json, random, re
 from pathlib import Path
 
 HERE = Path(__file__).parent
-random.seed(7)  # episode 7, of course
+random.seed(8)  # episode 8
 
 # --------------------------------------------------------------------- #
 # The cast — each voice a small function: same facts, different feel     #
@@ -63,14 +63,14 @@ def parse_bible(md_text):
     return questions, words
 
 def run_show():
-    bible = (HERE / "gamenight-seed.md").read_text()
+    bible = (HERE / "gamenight-seed-8.md").read_text()
     questions, words = parse_bible(bible)
     lines = []  # {speaker, line, segment, sfx}
     def say(speaker, line, segment, sfx=None):
         lines.append({"speaker": speaker, "line": line, "segment": segment, **({"sfx": sfx} if sfx else {})})
 
     say("Lucineer", "First round's on me tonight — nobody leaves without playing. Wesley, you're up first, house rules.", "open", sfx="clink of glasses")
-    say("Lucineer", "You're listening to THE TAP AFTER HOURS, episode seven: No One Cheats At Crab Dice. Stay sharp — the duck is listening.", "open")
+    say("Lucineer", "You're listening to THE TAP AFTER HOURS, episode eight: All Vectors Line Up At Low Tide. Stay sharp — the duck is listening.", "open")
 
     scores = {name: 0 for name in CAST}
     used = questions[:18] or []
@@ -114,7 +114,7 @@ def run_show():
     return lines
 
 def render(lines):
-    md = ["# THE TAP AFTER HOURS — Episode 7: *No One Cheats At Crab Dice*", "",
+    md = ["# THE TAP AFTER HOURS — Episode 8: *All Vectors Line Up At Low Tide*", "",
           "*Recorded live at The Tap. Rain on the tin roof. First round on the house.*", ""]
     last_seg = None
     for l in lines:
@@ -127,5 +127,5 @@ def render(lines):
 if __name__ == "__main__":
     lines = run_show()
     (HERE / "episode.md").write_text(render(lines))
-    (HERE / "script.json").write_text(json.dumps({"episode": 7, "title": "No One Cheats At Crab Dice", "lines": lines}, indent=1))
+    (HERE / "script.json").write_text(json.dumps({"episode": 8, "title": "All Vectors Line Up At Low Tide", "lines": lines}, indent=1))
     print(f"show complete: {len(lines)} lines, episode.md + script.json written")
