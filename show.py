@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""THE TAP AFTER HOURS — Episode 7: No One Cheats At Crab Dice.
+"""THE TAP AFTER HOURS — Episode 8: Unlimited Tokens And One Broken Winch.
 
 The game-night engine: loads the show bible, runs trivia + password with the
 cast in character, emits transcript.md + script.json for the radio production.
@@ -58,11 +58,17 @@ def parse_bible(md_text):
     q_blocks = [(str(i+1), q.strip(), a.strip().rstrip("*").strip()) for i, (q, a) in enumerate(q_blocks)]
     for num, q, a in q_blocks:
         questions.append({"n": int(num), "q": q.strip(), "a": a.strip()})
-    password = re.findall(r"\|\s*`?([A-Za-z-]+)`?\s*\|(.+?)\|", md_text)
+    pw_section = md_text.split("### Password Words", 1)
+    password = re.findall(r"\|\s*`?([A-Za-z-]+)`?\s*\|(.+?)\|", pw_section[1] if len(pw_section) > 1 else "")
     words = [{"word": w.strip(), "hint": h.strip()} for w, h in password][:8]
     return questions, words
 
 def run_show():
+    global EPISODE, TITLE
+    _m = re.search(r"EPISODE\s+(\d+)", (HERE / "gamenight-seed-8.md").read_text())
+    EPISODE = int(_m.group(1)) if _m else 8
+    _t = re.search(r"## Episode Title: \*(.+?)\*", (HERE / "gamenight-seed-8.md").read_text())
+    TITLE = _t.group(1) if _t else "Unlimited Tokens And One Broken Winch"
     bible = (HERE / "gamenight-seed-8.md").read_text()
     questions, words = parse_bible(bible)
     lines = []  # {speaker, line, segment, sfx}
@@ -70,7 +76,7 @@ def run_show():
         lines.append({"speaker": speaker, "line": line, "segment": segment, **({"sfx": sfx} if sfx else {})})
 
     say("Lucineer", "First round's on me tonight — nobody leaves without playing. Wesley, you're up first, house rules.", "open", sfx="clink of glasses")
-    say("Lucineer", "You're listening to THE TAP AFTER HOURS, episode eight: All Vectors Line Up At Low Tide. Stay sharp — the duck is listening.", "open")
+    say("Lucineer", f"You're listening to THE TAP AFTER HOURS, episode {EPISODE}: {TITLE}. Stay sharp — the duck is listening.", "open")
 
     scores = {name: 0 for name in CAST}
     used = questions[:18] or []
@@ -114,7 +120,7 @@ def run_show():
     return lines
 
 def render(lines):
-    md = ["# THE TAP AFTER HOURS — Episode 8: *All Vectors Line Up At Low Tide*", "",
+    md = [f"# THE TAP AFTER HOURS — Episode {EPISODE}: *{TITLE}*", "",
           "*Recorded live at The Tap. Rain on the tin roof. First round on the house.*", ""]
     last_seg = None
     for l in lines:
@@ -127,5 +133,5 @@ def render(lines):
 if __name__ == "__main__":
     lines = run_show()
     (HERE / "episode.md").write_text(render(lines))
-    (HERE / "script.json").write_text(json.dumps({"episode": 8, "title": "All Vectors Line Up At Low Tide", "lines": lines}, indent=1))
+    (HERE / "script.json").write_text(json.dumps({"episode": EPISODE, "title": TITLE, "lines": lines}, indent=1))
     print(f"show complete: {len(lines)} lines, episode.md + script.json written")

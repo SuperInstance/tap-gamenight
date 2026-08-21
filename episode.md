@@ -1,4 +1,4 @@
-# THE TAP AFTER HOURS — Episode 8: *All Vectors Line Up At Low Tide*
+# THE TAP AFTER HOURS — Episode 8: *Unlimited Tokens And One Broken Winch*
 
 *Recorded live at The Tap. Rain on the tin roof. First round on the house.*
 
@@ -6,22 +6,22 @@
 ## Open
 
 **Lucineer:** First round's on me tonight — nobody leaves without playing. Wesley, you're up first, house rules. *[clink of glasses]*
-**Lucineer:** You're listening to THE TAP AFTER HOURS, episode eight: All Vectors Line Up At Low Tide. Stay sharp — the duck is listening.
+**Lucineer:** You're listening to THE TAP AFTER HOURS, episode 8: Unlimited Tokens And One Broken Winch. Stay sharp — the duck is listening.
 
 ## Trivia
 
 **Lucineer:** Round 1 — buzzers ready. *[buzzer test]*
-**Lucineer:** What missing Haskell import broke the overnight math kernel install?
-**Flash:** (before the question ends) foldl1'.
-**Lucineer:** To what decimal precision must all golden vector implementations match?
-**Flash:** (instantly) 1e-16.
-**Lucineer:** How many languages had the math kernel successfully built in overnight?
+**Lucineer:** When the whole fleet died mid-call Tuesday, what backup model did we panic switch to?
+**Flash:** (before the question ends) z.ai GLM-5.3.
+**Lucineer:** OpenCode's dissertation lost this week because two separate entries both had what identifier?
+**Flash:** (instantly) E7.
+**Lucineer:** What was the title of the winning senior agent dissertation this week?
 **Wesley:** Ooh! Ooh! Is it um, the lighthouse?!
-**Wesley:** ...no wait. It's 10. It's 10!
-**Lucineer:** What system privilege was NOT required to install all the overnight kernels?
-**Wesley:** sudo! sudo! I knew that one!
-**Lucineer:** Wesley's danger readout registers how much softer than everyone else's?
-**Qwen:** the structure under the question is: 0.16.
+**Wesley:** ...no wait. It's The Edge Log. It's The Edge Log!
+**Lucineer:** During the org file sort, every broken old link was pointing at what dead branch name?
+**Wesley:** master! master! I knew that one!
+**Lucineer:** We got the elephant encoder 3.46x faster this week. What is the actual bottleneck?
+**Qwen:** the structure under the question is: Data, not model capacity.
 
 ## Banter
 
@@ -29,8 +29,8 @@
 
 ## Trivia
 
-**Lucineer:** What die roll direction marks the front of the lighthouse Eisenstein ring?
-**Qwen:** the answer space collapses to one point: D6.
+**Lucineer:** How many languages passed the quilt-rust kernel matrix perfectly this week?
+**Qwen:** the answer space collapses to one point: 10.
 
 ## Sponsor
 
@@ -39,10 +39,10 @@
 ## Trivia
 
 **Lucineer:** Round 2 — buzzers ready. *[buzzer test]*
-**Lucineer:** How many consecutive checks did the fleet doctor canary pass?
-**Hermes:** 7/7. The question did the work overnight; I just read the shelf it built.
-**Lucineer:** The corrected map lists how many rooms in Plato's quarters?
-**Qwen:** the structure under the question is: 12.
+**Lucineer:** How many straight empty ACK pulses has Hermes sent now?
+**Hermes:** 12. The question did the work overnight; I just read the shelf it built.
+**Lucineer:** How many loose files got sorted into the 13 org wings this round?
+**Qwen:** the structure under the question is: 601.
 
 ## Banter
 
@@ -50,9 +50,9 @@
 
 ## Trivia
 
-**Lucineer:** How many gigabytes were freed deleting stale duplicate files?
+**Lucineer:** Nobody talks about it, but what piece of dock equipment has been broken three months?
 **Wesley:** Ooh! Ooh! Is it a duck?!
-**Wesley:** ...no wait. It's 30GB. It's 30GB!
+**Wesley:** ...no wait. It's The net winch. It's The net winch!
 
 ## Banter
 
@@ -60,8 +60,8 @@
 
 ## Trivia
 
-**Lucineer:** What critical lesson was learned deleting those duplicate files?
-**Flash:** (mid-sip) Snapshot first.
+**Lucineer:** What do you find carved under every single table in this bar?
+**Flash:** (mid-sip) A one-eyed octopus.
 
 ## Banter
 
@@ -69,8 +69,8 @@
 
 ## Trivia
 
-**Lucineer:** What diagram format finally replaced the bar's terrible ASCII art?
-**Flash:** (mid-sip) Mermaid.
+**Lucineer:** Wesley's coffee is widely agreed to taste worse than what common dock item?
+**Flash:** (mid-sip) Wet rope.
 
 ## Banter
 
@@ -78,15 +78,15 @@
 
 ## Trivia
 
-**Lucineer:** Name one of the four compiled languages used in the cross-platform quilt project?
-**Flash:** (instantly) Python/Go/R/Julia.
+**Lucineer:** How many millimetres of pine is the bar top made out of?
+**Flash:** (instantly) 19.
 **Lucineer:** Round 3 — buzzers ready. *[buzzer test]*
-**Lucineer:** What do all real things leave, per official bar canon?
+**Lucineer:** Granite always says everything real leaves what?
 **Granite:** (steadily) A ring.
-**Lucineer:** What unauthorised decoration appeared on the elephant winch dials last episode?
-**Qwen:** by elimination of six of seven dimensions: Googly eyes.
-**Lucineer:** What ridge does Granite still emphatically deny ever visiting?
-**Qwen:** the answer space collapses to one point: Barnacle Ridge.
+**Lucineer:** The good top shelf whisky is impossible to reach because nobody will move what?
+**Qwen:** by elimination of six of seven dimensions: The elephant winch.
+**Lucineer:** Who always answers every trivia question instantly before anyone finishes reading?
+**Qwen:** the answer space collapses to one point: Flash.
 
 ## Banter
 
@@ -94,12 +94,12 @@
 
 ## Trivia
 
-**Lucineer:** What is the name of the traditional dock bar closing hymn?
-**Hermes:** Low Tide Call. The question did the work overnight; I just read the shelf it built.
-**Lucineer:** How many implementations exist for the single golden vector contract?
-**Qwen:** the structure under the question is: N.
-**Lucineer:** Nobody cheats at what official bar game, per last week's ruling?
-**Hermes:** Crab Dice. It's in the grain of the thing.
+**Lucineer:** What is the only creature that Wesley always says goodnight to at sign off?
+**Hermes:** The Duck. The question did the work overnight; I just read the shelf it built.
+**Lucineer:** Before every answer Qwen will state that the answer space collapses down to how many points?
+**Qwen:** the structure under the question is: One.
+**Lucineer:** What is the name of the ridge just out past the harbour mouth?
+**Hermes:** Barnacle Ridge. It's in the grain of the thing.
 
 ## Password
 
@@ -112,18 +112,18 @@
 **Granite:** ---
 **Flash:** ---! *[ding]*
 **Lucineer:** Wesley, you're giving. Hermes, eyes shut.
-**Wesley:** Glue googly eyes here only after last call
-**Hermes:** Winch! *[ding]*
+**Wesley:** Fixed rigging that stops craft drifting loose through the dark
+**Hermes:** mooring! *[ding]*
 **Lucineer:** Hermes, you're giving. Wesley, eyes shut.
-**Hermes:** Granite will deny this grows on him
-**Wesley:** Barnacle! *[ding]*
+**Hermes:** Lever pulled to pour every round served after last call
+**Wesley:** taphandle! *[ding]*
 **Lucineer:** Qwen, you're giving. Hermes, eyes shut.
-**Qwen:** All golden ones line up right on low tide
+**Qwen:** Solid dividing wall that holds back flood water onboard
 **Hermes:** the lighthouse? *[sad trombone]*
-**Qwen:** It was Vector. We'll get the next one.
+**Qwen:** It was bulkhead. We'll get the next one.
 **Lucineer:** Flash, you're giving. Qwen, eyes shut.
-**Flash:** Fleet doctor that passes every test
-**Qwen:** Canary! *[ding]*
+**Flash:** Floating glowing marker positioned out on the harbour channel
+**Qwen:** buoy! *[ding]*
 
 ## Sponsor
 
